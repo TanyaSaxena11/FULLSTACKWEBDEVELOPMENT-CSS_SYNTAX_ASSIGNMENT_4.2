@@ -1,0 +1,41 @@
+#top{
+margin:10px;
+color:maroon;
+text-transform:capitalize;
+font-weight:bold;
+border-bottom:2px blue solid;
+}
+#heading{
+  margin:10px;
+  margin-top:20px;
+  border-bottom:3px green dashed;
+  color:tomato;
+  text-align:center; 
+  background-color:lightblue;
+}
+.article{
+  margin:10px;
+  margin-top:20px;
+  color:blue;
+  background-color:pink;
+  font-size:30px;
+  text-align:center;
+  border-bottom: 4px blue double;
+}
+#footer{
+  margin:10px;
+  font-style: italic;
+  margin-top:20px;
+  color:green;
+  border-bottom: 2px dotted brown;
+  }
+p{
+  border: 2px solid red;
+  border-radius: 8px;
+  color:green;
+  padding:8px;
+}
+
+ 
+
+ 
